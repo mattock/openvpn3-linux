@@ -312,3 +312,4 @@ Contribution
   Fedora Copr repository is one which is currently available.  We are
   looking for people willing to package this in other Linux distributions
   as well.
+Trigger build
